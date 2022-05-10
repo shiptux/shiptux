@@ -1,4 +1,4 @@
-### Hi there 👋 this is shiptux(Li Cheng
+### Hi there 👋 this is shiptux(Li Cheng)
 
 [![Shiptux's github status](https://github-readme-stats.vercel.app/api?username=shiptux)](https://github.com/anuraghazra/github-readme-stats)
 
